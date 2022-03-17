@@ -5,4 +5,5 @@ $("document").ready(()=>{
     $(".moringa").click(()=> {
         $("#moringaTree").fadeIn();
     })
+ 
 })
