@@ -1,55 +1,66 @@
-body{
-    margin:0;
-    color:rgba(237, 241, 245, 0.938);
+body {
+    margin: 0;
+    color: rgba(237, 241, 245, 0.938);
     background-color: black;
 
 }
-h1{
 
-    text-align: center ;
-    color:rgb(255, 117, 4);
+h1 {
+
+    text-align: center;
+    color: rgb(255, 117, 4);
 }
-.treeImages{
-    display:none;
+
+.treeImages {
+    display: none;
     /* display:flex;
     justify-content:space-evenly; */
-    
+
 }
-.moringa{
+
+.moringa {
     font-family: 'Times New Roman', Times, serif;
     font-size: 1.5rem;
-    color:rgb(255, 117, 4);
+    color: rgb(255, 117, 4);
     font-weight: bold;
 }
-#moringaTree{
-    display:none;
-  
+
+#moringaTree {
+    display: none;
+
 }
-h3{
-    color:rgb(228, 141, 70);
+
+h3 {
+    color: rgb(228, 141, 70);
 }
+
 .timber {
     float: left;
     width: 30%;
-  
+
 }
-.cut{
-    margin-bottom:200px ;
+
+.cut {
+    margin-bottom: 200px;
     font-size: larger;
 }
-.seedling{
-    margin-bottom:300px ;
+
+.seedling {
+    margin-bottom: 300px;
     font-size: larger;
 }
-.elephant{
+
+.elephant {
     font-size: larger;
-    margin-bottom:200px ;
+    margin-bottom: 200px;
 }
-.seed{
+
+.seed {
     float: right;
     width: 30%;
 }
-.elephant_image{
+
+.elephant_image {
     float: left;
     width: 30%;
 }
