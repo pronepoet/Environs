@@ -2,6 +2,7 @@ body {
     margin: 0;
     color: rgba(237, 241, 245, 0.938);
     background-color: black;
+    
 
 }
 
@@ -9,6 +10,7 @@ h1 {
 
     text-align: center;
     color: rgb(255, 117, 4);
+    font-family: 'Permanent Marker', cursive;
 }
 
 .treeImages {
@@ -19,7 +21,7 @@ h1 {
 }
 
 .moringa {
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Permanent Marker', cursive;
     font-size: 1.5rem;
     color: rgb(255, 117, 4);
     font-weight: bold;
@@ -43,16 +45,19 @@ h3 {
 .cut {
     margin-bottom: 200px;
     font-size: larger;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .seedling {
     margin-bottom: 300px;
     font-size: larger;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .elephant {
     font-size: larger;
     margin-bottom: 200px;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .seed {
