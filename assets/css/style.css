@@ -28,3 +28,27 @@ h1{
 h3{
     color:rgb(228, 141, 70);
 }
+.timber {
+    float: left;
+    width: 30%;
+  
+}
+.cut{
+    margin-bottom:200px ;
+    font-size: larger;
+}
+.seedling{
+    margin-bottom:300px ;
+    font-size: larger;
+}
+.elephant{
+    font-size: larger;
+}
+.seed{
+    float: right;
+    width: 30%;
+}
+.elephant_image{
+    float: left;
+    width: 30%;
+}
